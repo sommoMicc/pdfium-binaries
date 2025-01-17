@@ -1,0 +1,58 @@
+{
+  "pdfium": {
+    "pdfium/third_party/llvm-build/Release+Asserts": [
+      "Linux_x64/clang-llvmorg-20-init-16062-g091448e3-1.tar.xz",
+      "Mac/clang-llvmorg-20-init-16062-g091448e3-1.tar.xz",
+      "Mac/clang-mac-runtime-library-llvmorg-20-init-16062-g091448e3-1.tar.xz",
+      "Mac_arm64/clang-llvmorg-20-init-16062-g091448e3-1.tar.xz",
+      "Win/clang-llvmorg-20-init-16062-g091448e3-1.tar.xz",
+      "Win/clang-win-runtime-library-llvmorg-20-init-16062-g091448e3-1.tar.xz"
+    ],
+    "pdfium/third_party/rust-toolchain": [
+      "Linux_x64/rust-toolchain-8a1f8039a7ded79d3d4fe97b110016d89f2b11e2-1-llvmorg-20-init-16062-g091448e3.tar.xz",
+      "Mac/rust-toolchain-8a1f8039a7ded79d3d4fe97b110016d89f2b11e2-1-llvmorg-20-init-16062-g091448e3.tar.xz",
+      "Mac_arm64/rust-toolchain-8a1f8039a7ded79d3d4fe97b110016d89f2b11e2-1-llvmorg-20-init-16062-g091448e3.tar.xz",
+      "Win/rust-toolchain-8a1f8039a7ded79d3d4fe97b110016d89f2b11e2-1-llvmorg-20-init-16062-g091448e3.tar.xz"
+    ]
+  },
+  "pdfium/third_party/instrumented_libs": {
+    "pdfium/third_party/instrumented_libs/binaries": [
+      "9329714322846c2b47dd518ac08e437b8c7d8075c514dc7ec3eb3e3a1e0faeb6",
+      "a749c9e47cb4584bc944c887440b1d1c51501f7d9bb99eea276ebcba0aa6c1ec"
+    ]
+  },
+  "pdfium/buildtools": {
+    "pdfium/buildtools/win-format": [
+      "49458d4c1e884a38308f8dc6a2c7eb55fc478755"
+    ],
+    "pdfium/buildtools/mac-format": [
+      "0b4bd257a1f4cd27d27d6919b0f9e52ecdfa8f1e"
+    ],
+    "pdfium/buildtools/mac_arm64-format": [
+      "96c34e77259c4cc1fc7bdf067fc058bfd341ab85"
+    ],
+    "pdfium/buildtools/linux64-format": [
+      "b42097ca924d1f1736a5a7806068fed9d7345eb4"
+    ]
+  },
+  "pdfium/build": {
+    "pdfium/build/linux/debian_bullseye_amd64-sysroot": [
+      "dec7a3a0fc5b83b909cba1b6d119077e0429a138eadef6bf5a0f2e03b1904631"
+    ],
+    "pdfium/build/linux/debian_bullseye_arm64-sysroot": [
+      "308e23faba3174bd01accfe358467b8a40fad4db4c49ef629da30219f65a275f"
+    ],
+    "pdfium/build/linux/debian_bullseye_armhf-sysroot": [
+      "fe81e7114b97440262bce004caf02c1514732e2fa7f99693b2836932ad1c4626"
+    ],
+    "pdfium/build/linux/debian_bullseye_i386-sysroot": [
+      "b53933120bb08ffc38140a817e3f0f99782254a6bf9622271574fa004e8783a4"
+    ],
+    "pdfium/build/linux/debian_bullseye_mips64el-sysroot": [
+      "783cb79f26736c69e8125788d95ffb65a28172349009d75188838a004280a92b"
+    ],
+    "pdfium/build/linux/debian_bullseye_mipsel-sysroot": [
+      "fcf8c3931476dd097c58f2f5d44621c7090b135e85ab56885aa4b44f4bd6cdb5"
+    ]
+  }
+}
